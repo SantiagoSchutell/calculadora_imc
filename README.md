@@ -1,1 +1,1 @@
-App simples para calcular IMC
+Programa simples para calcular IMC
